@@ -6,6 +6,7 @@ public class MonLivre {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Mon premier depôt avec GIT");
+		System.out.println("Mon second push vers GIT depuis eclipse");
 	}
 
 }
